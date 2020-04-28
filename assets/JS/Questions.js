@@ -1,14 +1,14 @@
 // list of all questions, choices, and answers
 var questions = [
     {
-      title: "Commonly used data types DO NOT include:",
-      choices: ["strings", "booleans", "alerts", "numbers"],
-      answer: "alerts"
+      title: "What is Computer Coding??",
+      choices: ["List of Functions", "TV Show", "Radio Show", "Telling a Computer what to do"],
+      answer: "Telling a Computer what to do"
     },
     {
-      title: "The condition in an if / else statement is enclosed within ____.",
-      choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-      answer: "parentheses"
+      title: "Who had invented java programing language?",
+      choices: ["Bjarne Stroustop", "James gosling", "Adolf peter", "None of the above"],
+      answer: "James gosling"
     },
     {
       title: "Arrays in JavaScript can be used to store ____.",
