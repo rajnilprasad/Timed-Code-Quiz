@@ -88,4 +88,11 @@ body {
     top: 10px;
     right: 10px;
   }
+
+  img {
+    height: 400px;
+    width: 100%;
+    padding: 20px;
+    
+}
   
